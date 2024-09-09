@@ -18,5 +18,6 @@ Now comes methods
 <br>
 1. clone : git clone (link)...link is from github in the repository click code and select https link and paste in vscode.
 <br>
-2. ls : ls ....for checking number of files.
+2. ls : ls ...for checking number of files. (didnt worked for me..??)
 <br>
+3. status : git status ... the result would be (modified,untracked,staged(if we add modified or untracked then it is given as staged i.e.; ready to be committed),unmodified)
