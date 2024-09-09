@@ -2,3 +2,21 @@
 Hello. This is my first repository.
 <br>
 My name is Keerthi. This is just a demo for my practice.
+<br>
+steps:
+<br>
+1.install gitbash and vscode
+<br>
+2.check in terminal (git --version)
+<br>
+3.open gitbash and type (git config --global user.name "username of github"
+                        git congig --global user.email "user gmail of github")
+<br>                     
+4.open a new folder of GITDEMO in vscode open the terminal just type git --version to check again
+<br>
+Now comes methods 
+<br>
+1. clone : git clone (link)...link is from github in the repository click code and select https link and paste in vscode.
+<br>
+2. ls : ls ....for checking number of files.
+<br>
