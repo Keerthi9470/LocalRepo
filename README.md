@@ -21,3 +21,4 @@ Now comes methods
 2. ls : ls ...for checking number of files. (didnt worked for me..??)
 <br>
 3. status : git status ... the result would be (modified,untracked,staged(if we add modified or untracked then it is given as staged i.e.; ready to be committed),unmodified)
+4. add : git add <filename> (git add . --> for adding all changes)
