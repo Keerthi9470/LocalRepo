@@ -12,7 +12,7 @@ steps:
 3.open gitbash and type (git config --global user.name "username of github"
                         git congig --global user.email "user gmail of github")
 <br>                     
-4.open a new folder of GITDEMO in vscode open the terminal just type git --version to check again
+4.open a new folder of GITDEMO in vscode open the terminal just type git --version to check again 
 <br>
 Now comes methods 
 <br>
