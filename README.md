@@ -27,3 +27,31 @@ Now comes methods
 5. commit : git commit -m "write si=omething here"
 <br>
 6. push local content to remote : git push origin main
+<br>
+7. mkdir "dirname" for creating new folder. 
+<br>
+8.git init : initialise git repo.
+<br>
+9. create a new repo in github. (git remote add origin <link>) , (git remote -v) , (git branch) , (git branch -m (name))
+<br>
+
+COMPLETED .
+<br>
+Basic flow : github repo -> clone -> changes -> add -> commit -> push
+<br>
+
+BRANCH COMMANDS
+1. git branch, git branch -m main(any name insgtead of main can be used), git checkout <branchname>(to navigate), git checkout -b <new branchname>(to create new branch), git branch -d <branchname>(to delete).
+<br>
+2. git checkout main , (git pull origin main - pull request to merge) , (git merge main - to merge)
+ <br>
+ 
+UNDOING CHANGES
+<br>
+1. Staged changes : git reset <filename> or git reset
+<br>
+2. commited changes (for 1 commit) : git reset HEAD~1
+<br>
+3. committed changes (for multiple commits) : git reset <commit hash(get by git log)> , git reset --hard <commit hash>
+<br>
+FORK - used to copy entire code and work on it.
